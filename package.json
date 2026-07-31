@@ -30,7 +30,7 @@
     "expo-splash-screen": "~0.30.9",
     "expo-status-bar": "~2.2.3",
     "expo-system-ui": "~5.0.9",
-    "expo-web-browser": "~14.2.0",
+    "expo-web-browser": "~57.0.2",
     "lucide-react-native": "^0.542.0",
     "react": "19.0.0",
     "react-dom": "19.0.0",
