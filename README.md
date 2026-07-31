@@ -21,10 +21,29 @@ This repository is a sanitized demonstration. It contains fictitious store detai
 - Supabase authentication, database, and storage integration
 - React Native Web
 
+## Run locally
+
+1. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+2. Copy `.env.example` to `.env` and enter the URL and anonymous key for your own Supabase project.
+
+3. Start the project:
+
+   ```bash
+   npm run web
+   ```
+
+The included SQL files describe the database used by the project. Review and adapt their security policies before using them in any production environment.
+
 ## Privacy and security
 
-- Do not commit environment files or production credentials.
+- Do not commit `.env` files or production credentials.
 - Use only fictitious data when testing this public demo.
+- The sample WhatsApp number, address, and product catalog are placeholders.
 - This project is provided as a portfolio case study, not as a production-ready commerce service.
 
 ## Author

@@ -1,0 +1,9 @@
+nome;preco;unidade;pesavel;categoria;grupo;codigo de barras;url da imagem
+Arroz integral 1 kg;8.90;un;Não;Mercearia;Grãos;;
+Feijão carioca 1 kg;9.50;un;Não;Mercearia;Grãos;;
+Leite integral 1 L;5.49;L;Não;Laticínios;Leites;;
+Banana prata;6.99;kg;Sim;Hortifruti;Frutas;;
+Tomate italiano;8.49;kg;Sim;Hortifruti;Legumes;;
+Pão francês;14.90;kg;Sim;Padaria;Pães;;
+Sabonete neutro;3.79;un;Não;Higiene;Cuidados pessoais;;
+Detergente 500 ml;2.99;un;Não;Limpeza;Cozinha;;
