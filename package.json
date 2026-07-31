@@ -21,7 +21,7 @@
     "expo-asset": "~11.1.5",
     "expo-clipboard": "~7.1.5",
     "expo-constants": "~17.1.6",
-    "expo-document-picker": "~13.1.6",
+    "expo-document-picker": "~57.0.1",
     "expo-font": "~13.3.1",
     "expo-image": "~2.4.1",
     "expo-linear-gradient": "~14.1.5",
